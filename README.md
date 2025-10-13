@@ -32,7 +32,7 @@ If you have issues logging in, try logging in manually into battlenet as sometim
 
 ## Launch via Battlenet Client
 Ew yucky. Ignore the plethora of YouTube guides telling you to open multiple battlenet instances to do this. Gross.<br>
-Not only will you be tripping over various battlenet windows (which is a nightmare when changing regions) but you'll also need to copy the game install folder several times.
+Not only will you be tripping over various battlenet windows (which is a nightmare when changing regions) but you'll also need to copy the game install folder several times (although you can actually get around this by using symbolic links).
 
 ## Launch via Authentication Token (Advanced)
 This is technically the same way that Battle.net uses to launch and does work with MFA (Multi-Factor Authentication) enabled accounts.
